@@ -16,7 +16,7 @@
 To contact, search "artogahr" on your preferred social media of choice.
 <br>For lazies: 
 <ul>
-<li>	[<img title="Reddit" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/reddit1.png" width="16" height="16" /> /u/artogahr](reddit.com/u/artogahr)
+<li>	[<img title="Reddit" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/reddit1.png" width="16" height="16" /> /u/artogahr](https://reddit.com/u/artogahr)
 <li>	<img title="Linkedin" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/linkedin.png" width="16" height="16" /> /in/artogahr
 <li>	<img title="Instagram" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/instagram.png" width="16" height="16" /> /artogahr
 <li>	<img title="Facebook" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/facebook.png" width="16" height="16" /> /artogahr
