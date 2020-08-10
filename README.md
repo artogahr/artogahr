@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://linkedin.com/in/artogahr">Artoghrul</a><br>I'm from Azerbaijan 🇦.🇿<br>(You may prefer to call me Ertuğrul if you are Turkish 🇹🇷)<br> I'm an aspiring SysDev<br>
+  <samp>Hello there. I'm <a href="https://linkedin.com/in/artogahr">Artoghrul</a><br>I'm from Azerbaijan 🇦🇿<br>(You may prefer to call me Ertuğrul if you are Turkish 🇹🇷)<br> I'm an aspiring SysDev<br>
   Currently in Trabzon, Turkey<br></samp>
   <br>
   <br>
