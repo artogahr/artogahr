@@ -7,18 +7,18 @@
   <br>
   <br>
   <br>
-  <br>
   <img src="https://media1.tenor.com/images/4e179b80071a7b76f3dc467e2fa5038d/tenor.gif?itemid=7542463"/>
 </p>
 
 ------------
+<center>
 
 To contact, search "artogahr" on your preferred social media of choice.
 <br>For lazies: 
-<ul>
-<li>	[<img title="Reddit" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/reddit1.png" width="16" height="16" /> /u/artogahr](https://reddit.com/u/artogahr)
-<li>	<img title="Linkedin" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/linkedin.png" width="16" height="16" /> /in/artogahr
-<li>	<img title="Instagram" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/instagram.png" width="16" height="16" /> /artogahr
-<li>	<img title="Facebook" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/facebook.png" width="16" height="16" /> /artogahr
-<li>	<img title="" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/.png" width="16" height="16" /> 
-</ul>
+[<img title="Linkedin" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/linkedin.png" width="16" height="16" /> /in/artogahr](linkedin.com/in/artogahr)
+[<img title="Instagram" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/instagram.png" width="16" height="16" /> /artogahr](instagram.com/artogahr)
+[<img title="Facebook" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/facebook.png" width="16" height="16" /> /artogahr](facebook.com/artogahr)
+[<img title="Reddit" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/reddit1.png" width="16" height="16" /> /u/artogahr](https://reddit.com/u/artogahr)
+[<img title="Github" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/github.png" width="16" height="16" /> /artogahr](github.com/artogahr)
+
+</center>
