@@ -14,9 +14,11 @@
 ------------
 
 To contact, search "artogahr" on your preferred social media of choice.
-Current artogahr list: 
-	<img title="Reddit" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/reddit1.png" width="32" height="32" />
-	<img title="Linkedin" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/linkedin.png" width="32" height="32" />
-	<img title="Instagram" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/instagram.png" width="32" height="32" />
-	<img title="Facebook" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/facebook.png" width="32" height="32" />
-	<img title="" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/.png" width="32" height="32" />
+<br>Current artogahr list: 
+<ul>
+<li>	<img title="Reddit" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/reddit1.png" width="32" height="32" />
+<li>	<img title="Linkedin" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/linkedin.png" width="32" height="32" />
+<li>	<img title="Instagram" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/instagram.png" width="32" height="32" />
+<li>	<img title="Facebook" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/facebook.png" width="32" height="32" />
+<li>	<img title="" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/.png" width="32" height="32" />
+</ul>
