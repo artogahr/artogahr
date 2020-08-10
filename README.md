@@ -15,7 +15,7 @@
 
 To contact, search "artogahr" on your preferred social media of choice.
 Current artogahr list: 
-	<img title="Reddit" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/reddit.png" width="32" height="32" />
+	<img title="Reddit" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/reddit1.png" width="32" height="32" />
 	<img title="Linkedin" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/linkedin.png" width="32" height="32" />
 	<img title="Instagram" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/instagram.png" width="32" height="32" />
 	<img title="Facebook" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/facebook.png" width="32" height="32" />
