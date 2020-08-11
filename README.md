@@ -23,5 +23,5 @@ To contact, search "artogahr" on your preferred social media of choice.
  | [<img title="Github" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/github.png" width="16" height="16" /> /artogahr](https://github.com/artogahr)
  | [artogahr@ <img title="Mail" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/gmail.png" width="16" height="16" />](mailto:artogahr@gmail.com)
  | [<img title="Twitter" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/twitter.png" width="16" height="16" /> /artogahr](https://twitter.com/artogahr)
- | [<img title="Telegram" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/Telegram.png" width="16" height="16" /> /artogahr](https://t.me/artogahr)
+ | [<img title="Telegram" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/telegram.png" width="16" height="16" /> /artogahr](https://t.me/artogahr)
 </center>
