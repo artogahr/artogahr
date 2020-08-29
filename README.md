@@ -22,4 +22,4 @@ To contact, search "artogahr" on your preferred social media of choice:
  | [artogahr@ <img title="Mail" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/gmail.png" width="16" height="16" />](mailto:artogahr@gmail.com)
  | [<img title="Twitter" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/twitter.png" width="16" height="16" /> /artogahr](https://twitter.com/artogahr)
  | [<img title="Arch" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/arch.png" width="16" height="16" /> /artogahr](https://aur.archlinux.org/account/artogahr)
-
+ | [<img title="HackerRank" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/hackerrank.png" width="16" height="16" /> /artogahr](https://www.hackerrank.com/artogahr)
