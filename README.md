@@ -5,7 +5,7 @@
 <br>Currently studying for CCNA so not much time to code.<br>
   </samp>
   <br>
-![CLJmBN9](https://user-images.githubusercontent.com/22445057/112126183-3fd2b300-8bd5-11eb-8322-37d75dbc4d31.gif)
+<img src="https://user-images.githubusercontent.com/22445057/112126183-3fd2b300-8bd5-11eb-8322-37d75dbc4d31.gif">
 
   <br>
 </p>
