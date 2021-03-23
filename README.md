@@ -6,7 +6,10 @@
   </samp>
   <br>
   <br>
-<source src="https://i.imgur.com/CLJmBN9.mp4" type="video/mp4">
+  <video width="320" height="240" controls>
+  <source src="https://i.imgur.com/CLJmBN9.mp4" type="video/mp4">
+  </video>
+
 
 
 </p>
