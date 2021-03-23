@@ -6,7 +6,7 @@
   </samp>
   <br>
   <br>
-  <img src="https://media1.tenor.com/images/4e179b80071a7b76f3dc467e2fa5038d/tenor.gif?itemid=7542463"/>
+  <img src="https://imgur.com/gallery/CLJmBN9"/>
 </p>
 
 ------------
