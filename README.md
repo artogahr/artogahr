@@ -5,11 +5,11 @@
 <br>Currently studying for CCNA so not much time to code.<br>
   </samp>
   <br>
+
+https://user-images.githubusercontent.com/22445057/112125590-a6a39c80-8bd4-11eb-8f9c-6cd171ff856c.mp4
+
+
   <br>
-  ![](https://i.imgur.com/CLJmBN9.mp4)
-
-
-
 </p>
 
 ------------
