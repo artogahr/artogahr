@@ -1,3 +1,4 @@
+![CLJmBN9](https://user-images.githubusercontent.com/22445057/112126183-3fd2b300-8bd5-11eb-8322-37d75dbc4d31.gif)
 <p align="center">
   <br>
   <br>
@@ -5,8 +6,6 @@
 <br>Currently studying for CCNA so not much time to code.<br>
   </samp>
   <br>
-
-  ![caption](https://user-images.githubusercontent.com/22445057/112125590-a6a39c80-8bd4-11eb-8f9c-6cd171ff856c.mp4)
 
   <br>
 </p>
