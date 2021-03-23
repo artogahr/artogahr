@@ -3,7 +3,7 @@
   <br>
   <samp>Hello there. I'm <a href="https://linkedin.com/in/artogahr">Artoghrul</a><br>I'm from Azerbaijan 🇦🇿<br>(You may prefer to call me Ertuğrul if you are Turkish 🇹🇷)<br> I'm an aspiring Network Engineer.
 <br>Currently studying for CCNA so not much time to code.<br>
-  Currently in Trabzon, Turkey<br></samp>
+  </samp>
   <br>
   <br>
   <img src="https://media1.tenor.com/images/4e179b80071a7b76f3dc467e2fa5038d/tenor.gif?itemid=7542463"/>
