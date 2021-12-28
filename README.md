@@ -2,7 +2,7 @@
   <br>
   <br>
   <samp>Hello there. I'm <a href="https://linkedin.com/in/artogahr">Artoghrul</a><br>I'm from Azerbaijan 🇦🇿<br>(You may prefer to call me Ertuğrul if you are Turkish 🇹🇷)<br> I'm an aspiring Network Engineer.
-<br>Currently studying for CCNA so not much time to code.<br>
+<br>CCNA<br>
   </samp>
   <br>
 <img src="https://user-images.githubusercontent.com/22445057/112126183-3fd2b300-8bd5-11eb-8322-37d75dbc4d31.gif">
