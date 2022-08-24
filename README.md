@@ -1,8 +1,8 @@
 <p >
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://linkedin.com/in/artogahr">Artoghrul</a><br>I'm from Azerbaijan 🇦🇿<br>(You may prefer to call me Ertuğrul if you are Turkish 🇹🇷)<br>Currently working as the SysAdmin / DevOps guy @ Norta Partners
-<br>CCNA<br>
+  <samp>Hello there. I'm <a href="https://linkedin.com/in/artogahr">Arto.</a><br>Currently working as TAC Engineer @ Fortinet
+<br>CCNA, NSE<br>
   </samp>
   <br>
 </p>
