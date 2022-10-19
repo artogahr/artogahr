@@ -3,6 +3,7 @@
   <br>
   <samp>Hello there. I'm <a href="https://linkedin.com/in/artogahr">Arto.</a><br>Currently working as TAC Engineer @ Fortinet
 <br>CCNA, NSE<br>
+<br>I'm learning Rust!<br>
   </samp>
   <br>
 </p>
