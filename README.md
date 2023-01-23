@@ -4,10 +4,13 @@
   <samp>Hello there. I'm <a href="https://linkedin.com/in/artogahr">Arto.</a><br>Currently working as TAC Engineer @ Fortinet
 <br>CCNA, NSE<br>
 <br>I'm learning Rust!<br>
-  </samp>
-  <br>
-</p>
+https://artogahr.bearblog.dev
 
+<br>
+<br>
+
+</p>
+  
 ------------
 
 To contact, search "artogahr" on your preferred social media of choice:
@@ -23,3 +26,4 @@ To contact, search "artogahr" on your preferred social media of choice:
  | [<img title="Twitter" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/twitter.png" width="16" height="16" /> /artogahr](https://twitter.com/artogahr)
  | [<img title="Arch" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/arch.png" width="16" height="16" /> /artogahr](https://aur.archlinux.org/account/artogahr)
  | [<img title="Facebook" src="https://raw.githubusercontent.com/artogahr/artogahr/master/assets/facebook.png" width="16" height="16" /> /artogahr](https://facebook.com/artogahr)
+
