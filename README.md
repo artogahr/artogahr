@@ -1,10 +1,10 @@
 <p >
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://linkedin.com/in/artogahr">Arto.</a><br>Currently working as a Development Services dude @ Barclays
+  <samp>Hello there. I'm <a href="https://linkedin.com/in/artogahr">Arto.</a><br>Currently working as a DevOps dude @ Barclays
 <br>CCNA, NSE<br>
 <br>I'm learning Rust!<br>
-https://artogahr.bearblog.dev
+https://gahr.io
 
 <br>
 <br>
